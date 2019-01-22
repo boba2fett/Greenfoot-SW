@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=SWShip
+comment0.text=\n\ Write\ a\ description\ of\ class\ Ship\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=ptype\ pnum
+comment1.target=SWShip(java.lang.String,\ int)
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Act\ -\ do\ whatever\ the\ Ship\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment3.params=
+comment3.target=void\ explosion()
+comment4.params=
+comment4.target=void\ shoot()
+comment5.params=damage
+comment5.target=void\ hit(double)
+comment6.params=
+comment6.target=void\ randomLocation()
+comment7.params=
+comment7.target=void\ randomRotation()
+comment8.params=w
+comment8.target=void\ addedToWorld(greenfoot.World)
+numComments=9
